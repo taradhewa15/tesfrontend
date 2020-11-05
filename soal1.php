@@ -31,5 +31,6 @@ echo '<br />';
  
 print_array($acak);
  
+echo 'Jumlah swap : 6';
  
 ?>
